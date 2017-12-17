@@ -1,0 +1,20 @@
+{
+  "name": "1stnodeapp",
+  "version": "1.0.0",
+  "description": "HPDF TASK1 WITH NODEJSEXPRESS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VIKRAM_SHINDE",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.13.3",
+    "request": "^2.83.0",
+    "tablify": "^0.1.5"
+  }
+}
