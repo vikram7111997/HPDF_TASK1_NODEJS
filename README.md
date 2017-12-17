@@ -42,6 +42,7 @@ then install the additional dependencies by having a look at the package.json fi
 npm install express--save
 
 then run the index.js file by using the command 
+
 node index.js
 
 Note - Remember to keep all the files inside the same folder and installing all the additional dependencies
@@ -52,11 +53,11 @@ Also there is a folder in my repo named AppRelatedData which contains two files 
 
 1) A video file which is a screen cast of my app running on my machine which would give u a demo of how to actually start with the          proceedings.It can also be considerd as a tutorial video of about how to run my app using my repo on ur machine.So do download it        along with the whole repo for understanding my work nicely.
 
-2)Also there is a pdf file which is the official Week 1 task document file given by the Hasura as a part of the HPDF.
+2) Also there is a pdf file which is the official Week 1 task document file given by the Hasura as a part of the HPDF.
 
 So in short if u follow n use each n every thing inside this repo carefully,u can successfully test my app on ur side.
 
-P.S Do watch the video n read the readme file carefully to get to know what this app is all abt n how to run it at ur end.
+P.S. Do watch the video n read the readme file carefully to get to know what this app is all abt n how to run it at ur end.
 
 Thanks.....do smile n always keep coding :)
 
